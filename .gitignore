@@ -27,3 +27,19 @@
 *.exe
 *.out
 *.app
+
+# Web Files
+*.html
+*.css
+
+# lcov Files
+*.info
+
+# Directories
+stage/
+*_html_lcov
+
+# Qt Files
+*.pro.user
+
+
